@@ -11,10 +11,14 @@ You can use it to convert any JPG image to PNG
 
 ## Try It Out
 1. You can either
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 or
-`pip install Pillow`
+```
+pip install Pillow
+```
 
-2. run `JPGtoPNGconverter.py <image_folder/> <output_folder/>`
-e.g. `JPGtoPNGconverter.py pokemon/ new/`
+2. run ```JPGtoPNGconverter.py <image_folder/> <output_folder/>```
+e.g. ```JPGtoPNGconverter.py pokemon/ new/```
 
