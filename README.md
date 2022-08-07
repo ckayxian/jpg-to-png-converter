@@ -19,6 +19,12 @@ or
 pip install Pillow
 ```
 
-2. run ```JPGtoPNGconverter.py <image_folder/> <output_folder/>```
-e.g. ```JPGtoPNGconverter.py pokemon/ new/```
+2. run 
+```
+JPGtoPNGconverter.py <image_folder/> <output_folder/>
+```
+e.g. 
+```
+JPGtoPNGconverter.py pokemon/ new/
+```
 
